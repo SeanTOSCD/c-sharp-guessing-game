@@ -1,0 +1,14 @@
+/Users/seandavis/RiderProjects/HelloUniverse/HelloUniverse/bin/Debug/net8.0/HelloUniverse
+/Users/seandavis/RiderProjects/HelloUniverse/HelloUniverse/bin/Debug/net8.0/HelloUniverse.deps.json
+/Users/seandavis/RiderProjects/HelloUniverse/HelloUniverse/bin/Debug/net8.0/HelloUniverse.runtimeconfig.json
+/Users/seandavis/RiderProjects/HelloUniverse/HelloUniverse/bin/Debug/net8.0/HelloUniverse.dll
+/Users/seandavis/RiderProjects/HelloUniverse/HelloUniverse/bin/Debug/net8.0/HelloUniverse.pdb
+/Users/seandavis/RiderProjects/HelloUniverse/HelloUniverse/obj/Debug/net8.0/HelloUniverse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seandavis/RiderProjects/HelloUniverse/HelloUniverse/obj/Debug/net8.0/HelloUniverse.AssemblyInfoInputs.cache
+/Users/seandavis/RiderProjects/HelloUniverse/HelloUniverse/obj/Debug/net8.0/HelloUniverse.AssemblyInfo.cs
+/Users/seandavis/RiderProjects/HelloUniverse/HelloUniverse/obj/Debug/net8.0/HelloUniverse.csproj.CoreCompileInputs.cache
+/Users/seandavis/RiderProjects/HelloUniverse/HelloUniverse/obj/Debug/net8.0/HelloUniverse.dll
+/Users/seandavis/RiderProjects/HelloUniverse/HelloUniverse/obj/Debug/net8.0/refint/HelloUniverse.dll
+/Users/seandavis/RiderProjects/HelloUniverse/HelloUniverse/obj/Debug/net8.0/HelloUniverse.pdb
+/Users/seandavis/RiderProjects/HelloUniverse/HelloUniverse/obj/Debug/net8.0/HelloUniverse.genruntimeconfig.cache
+/Users/seandavis/RiderProjects/HelloUniverse/HelloUniverse/obj/Debug/net8.0/ref/HelloUniverse.dll
